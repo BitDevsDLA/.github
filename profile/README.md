@@ -12,6 +12,6 @@ A feedback and Q&A section follow. After the event the group may gather at a nea
 
 ### Actionables
 
-🧙 Join us on [Discord](https://discord.gg/kxWbxUX5e4) or [X (Fornely Twitter)](https://x.com/BitDevsDLA)
+🧙 Join us on [Discord](https://discord.gg/kxWbxUX5e4) or [X (Formely Twitter)](https://x.com/BitDevsDLA)
 
 👩‍💻 Suggest a topic of discussion via [Github Issues here](https://github.com/BitDevsDLA/bitdevsdla.org/issues), or on Discord
